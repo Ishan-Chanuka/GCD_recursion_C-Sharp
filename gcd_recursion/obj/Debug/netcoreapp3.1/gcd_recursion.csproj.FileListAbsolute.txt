@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.exe
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.deps.json
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.runtimeconfig.json
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.runtimeconfig.dev.json
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.dll
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\bin\Debug\netcoreapp3.1\gcd_recursion.pdb
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.AssemblyInfo.cs
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.dll
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.pdb
+C:\Users\admin\source\repos\gcd_recursion\gcd_recursion\obj\Debug\netcoreapp3.1\gcd_recursion.genruntimeconfig.cache
